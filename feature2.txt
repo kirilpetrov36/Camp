@@ -1,2 +1,2 @@
 the content of feature 2
-here's a bug.
+bug is fixed.
